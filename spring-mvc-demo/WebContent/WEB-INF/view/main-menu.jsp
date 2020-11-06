@@ -9,5 +9,9 @@
 <a href="hello/showForm">Heelo world form</a>
 <br><br>
 <a href="student/showForm">Heelo world form</a>
+
+
+<br><br>
+<a href="customer/showForm">Customer form</a>
 </body>
 </html>
